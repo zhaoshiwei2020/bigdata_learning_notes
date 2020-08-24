@@ -1,2 +1,18 @@
-# bigdata_learning_notes
-# bigdata_learning_notes
+# 大数据学习之路
+## 一、思维导图版
+### 1.Hadoop 核心及生态圈技术栈
+#### 1.1 Hadoop 框架核心
+#### 1.2 Hadoop 生态圈技术栈
+### 分布式缓存 Redis 及 Kafka 消息中间件
+## 二、文字梳理版
+### 1.Hadoop 核心及生态圈技术栈
+#### 1.1 Hadoop 框架核心
+##### 1.1.1 HDFS
+##### 1.1.2 MapReduce
+##### 1.1.3 Yarn
+#### 1.2 Hadoop 生态圈技术栈
+##### 1.2.1 数仓工具_Hive
+##### 1.2.2 交互工具_Hue
+##### 1.2.3 数据采集工具_Flume
+##### 1.2.4 ETL 工具_Sqoop
+### 分布式缓存 Redis 及 Kafka 消息中间件
