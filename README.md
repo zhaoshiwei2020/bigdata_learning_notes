@@ -1,4 +1,4 @@
-# 大数据学习之路
+# 拉勾大数据训练营攀登之路
 
 ## 一、学习笔记
 ### 1. Hadoop 核心及生态圈技术栈
@@ -12,7 +12,7 @@
 
 ##### 1.1.1 [HDFS](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108805263)
 ##### 1.1.2 [MapReduce](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108806978)
-##### 1.1.3 [Yarn]()
+##### 1.1.3 [Yarn](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108809121)
 &#160;
 #### 1.2 Hadoop 生态圈技术栈
 ##### 1.2.1 数仓工具_Hive
@@ -47,6 +47,6 @@
 ### 7. [Impala 安装部署](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104856441)
 &#160;
 ## 三、学习中遇到过的报错
-### 1. [<font color=red>hadoop-hdfs 目录无权限，DataNode 启动失败</font>](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108691458)
+### 1. [hadoop-hdfs 目录无权限，DataNode 启动失败](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108691458)
 ### 2. [无法初始化 Hive 元数据](https://blog.csdn.net/CODEROOKIE_RUN/article/details/105281167)
 ### 3. [使用 PREFIX=PATH make install 编译 hue 报错：……setuptools pip wheel failed with error code 2](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108373170)
