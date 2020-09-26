@@ -21,7 +21,6 @@
 ##### 1.2.4 ETL 工具_Sqoop
 &#160;
 ## 二、组件安装文档
-&#160;
 ### 1. [大数据集群搭建环境准备](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104266904)
 &#160;
 ### 2. Hadoop 集群搭建
