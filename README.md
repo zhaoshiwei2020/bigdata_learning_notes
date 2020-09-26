@@ -15,10 +15,10 @@
 ##### 1.1.3 [Yarn](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108809121)
 &#160;
 #### 1.2 Hadoop 生态圈技术栈
-##### 1.2.1 数仓工具_Hive
-##### 1.2.2 交互工具_Hue
-##### 1.2.3 数据采集工具_Flume
-##### 1.2.4 ETL 工具_Sqoop
+##### 1.2.1 数仓工具_Hive（更新中）
+##### 1.2.2 交互工具_Hue（更新中）
+##### 1.2.3 数据采集工具_Flume（更新中）
+##### 1.2.4 ETL 工具_Sqoop（更新中）
 &#160;
 ## 二、组件安装文档
 ### 1. [大数据集群搭建环境准备](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104266904)
