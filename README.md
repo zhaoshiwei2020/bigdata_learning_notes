@@ -17,7 +17,7 @@
 ##### 1.2.2 交互工具_Hue
 ##### 1.2.3 数据采集工具_Flume
 ##### 1.2.4 ETL 工具_Sqoop
-
+&#160;
 ## 二、组件安装文档
 ### 1. [大数据集群搭建环境准备](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104266904)
 ### 2. Hadoop 集群搭建
@@ -36,7 +36,7 @@
 ### 5. [Flueme 组件安装部署](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104648825)
 ### 6. [Sqoop 组件安装部署](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104711675)
 ### 7. [Impala 安装部署](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104856441)
-
+&#160;
 ## 三、学习中遇到过的报错
 ### 1. [hadoop-hdfs 目录无权限，DataNode 启动失败](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108691458)
 ### 2. [无法初始化 Hive 元数据](https://blog.csdn.net/CODEROOKIE_RUN/article/details/105281167)
