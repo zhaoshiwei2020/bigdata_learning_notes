@@ -47,6 +47,6 @@
 ### 7. [Impala 安装部署](https://blog.csdn.net/CODEROOKIE_RUN/article/details/104856441)
 &#160;
 ## 三、学习中遇到过的报错
-### 1. [hadoop-hdfs 目录无权限，DataNode 启动失败](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108691458)
+### 1. [<font color=red>hadoop-hdfs 目录无权限，DataNode 启动失败</font>](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108691458)
 ### 2. [无法初始化 Hive 元数据](https://blog.csdn.net/CODEROOKIE_RUN/article/details/105281167)
 ### 3. [使用 PREFIX=PATH make install 编译 hue 报错：……setuptools pip wheel failed with error code 2](https://blog.csdn.net/CODEROOKIE_RUN/article/details/108373170)
